@@ -8,14 +8,13 @@ export default {
     extend: {
       fontFamily:{
         montserrat: ['Montserrat'],
+        opensans :['Open Sans']
       },
       
       colors:{
-        'gradient':'bg-clip-text text-transparent bg-gradient-to-r from-blue-700 via-blue-600 to-blue-200',
-        'sky-blue':'#1AACEA',
-        'blue-100':'#1353DD',
-        'blue-200':'#2D56EC',
-        'blue-300':'#2872EC'
+        'neutral-black':'#2D2D2D',
+        'neutral-pink':"#FFF0F6"
+        
       }
       
     },
